@@ -16,7 +16,7 @@ services:
         restart: always
         environment:
             MYSQL_ROOT_PASSWORD: noV11+24
-            MYSQL_DATABASE: ajcc
+            MYSQL_DATABASE: ajc
             MYSQL_USER: admin
             MYSQL_PASSWORD: noV11+24
         ports:
